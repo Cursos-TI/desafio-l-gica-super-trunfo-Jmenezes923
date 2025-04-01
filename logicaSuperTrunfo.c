@@ -3,7 +3,7 @@
 int main(){
 
     // variáveis da primeira carta (Manaus AM)
-    char estado1 [20] = ("A");
+    char estado1 [1] = ("A");
     char codigo1 [20] = ("A01");
     char cidade1 [30] = ("Manaus");
     int populacao1 = 2.064000 ;
